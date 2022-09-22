@@ -1,2 +1,1 @@
-# bunny-game
-It about the bunny eating fruit
+# bunny_feeder.github.io
